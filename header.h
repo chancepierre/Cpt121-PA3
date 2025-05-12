@@ -1,9 +1,3 @@
-/************************************
-* Programmer: Chance Pierre
-* Class: Cpts 121, Fall 2024
-  Programming Assignment: PA3
-  Date: September 22, 2024
-  Description: This program will take data from the input file and calculate it to output it to a different file */
 
 #ifndef PASSIGNMENT_H
 #define PASSIGNMENT_H
